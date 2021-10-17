@@ -413,7 +413,8 @@ for coluna in tabela.columns:
     grafico.show()
 ```
 <h3>Gráficos gerados pelo comando grafico.show():</h3>
-
+<h5>gênero</h5>
+<img src="https://raw.githubusercontent.com/paulocaetanomt88/analise_de_dados_python/main/graficos/newplot%20(1).png" />
 
 
 <h1>Conclusões</h1>
