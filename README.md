@@ -413,30 +413,88 @@ for coluna in tabela.columns:
     grafico.show()
 ```
 <h3>Gráficos gerados pelo comando grafico.show():</h3>
-<h5>gênero</h5>
+<p>
 <img src="https://raw.githubusercontent.com/paulocaetanomt88/analise_de_dados_python/main/graficos/newplot%20(1).png" />
+</p> <br />
+<p>
+<img src="https://raw.githubusercontent.com/paulocaetanomt88/analise_de_dados_python/main/graficos/newplot%20(2).png" />
+</p> <br />
+<p>
+<img src="https://raw.githubusercontent.com/paulocaetanomt88/analise_de_dados_python/main/graficos/newplot%20(3).png" />
+</p> <br />
+<p>
+<img src="https://raw.githubusercontent.com/paulocaetanomt88/analise_de_dados_python/main/graficos/newplot%20(4).png" />
+</p> <br />
+<p>
+<img src="https://raw.githubusercontent.com/paulocaetanomt88/analise_de_dados_python/main/graficos/newplot%20(5).png" />
+</p> <br />
+<p>
+<img src="https://raw.githubusercontent.com/paulocaetanomt88/analise_de_dados_python/main/graficos/newplot%20(6).png" />
+</p> <br />
+<p>
+<img src="https://raw.githubusercontent.com/paulocaetanomt88/analise_de_dados_python/main/graficos/newplot%20(7).png" />
+</p> <br />
+<p>
+<img src="https://raw.githubusercontent.com/paulocaetanomt88/analise_de_dados_python/main/graficos/newplot%20(8).png" />
+</p> <br />
+<p>
+<img src="https://raw.githubusercontent.com/paulocaetanomt88/analise_de_dados_python/main/graficos/newplot%20(9).png" />
+</p> <br />
+<p>
+<img src="https://raw.githubusercontent.com/paulocaetanomt88/analise_de_dados_python/main/graficos/newplot%20(10).png" />
+</p> <br />
+<p>
+<img src="https://raw.githubusercontent.com/paulocaetanomt88/analise_de_dados_python/main/graficos/newplot%20(11).png" />
+</p> <br />
+<p>
+<img src="https://raw.githubusercontent.com/paulocaetanomt88/analise_de_dados_python/main/graficos/newplot%20(12).png" />
+</p> <br />
+<p>
+<img src="https://raw.githubusercontent.com/paulocaetanomt88/analise_de_dados_python/main/graficos/newplot%20(13).png" />
+</p> <br />
+<p>
+<img src="https://raw.githubusercontent.com/paulocaetanomt88/analise_de_dados_python/main/graficos/newplot%20(14).png" />
+</p> <br />
+<p>
+<img src="https://raw.githubusercontent.com/paulocaetanomt88/analise_de_dados_python/main/graficos/newplot%20(15).png" />
+</p> <br />
+<p>
+<img src="https://raw.githubusercontent.com/paulocaetanomt88/analise_de_dados_python/main/graficos/newplot%20(16).png" />
+</p> <br />
+<p>
+<img src="https://raw.githubusercontent.com/paulocaetanomt88/analise_de_dados_python/main/graficos/newplot%20(17).png" />
+</p> <br />
+<p>
+<img src="https://raw.githubusercontent.com/paulocaetanomt88/analise_de_dados_python/main/graficos/newplot%20(18).png" />
+</p> <br />
+<p>
+<img src="https://raw.githubusercontent.com/paulocaetanomt88/analise_de_dados_python/main/graficos/newplot%20(19).png" />
+</p> <br />
+<p>
+<img src="https://raw.githubusercontent.com/paulocaetanomt88/analise_de_dados_python/main/graficos/newplot%20(20).png" />
+</p> <br />
 
 
-<h1>Conclusões</h1>
+<h1>Conclusões sobre os gráficos gerados</h1>
 
-Clientes com contrato mensal tem MUITO mais chance de cancelar:
+- Clientes com contrato mensal tem MUITO mais chance de cancelar:
     Podemos fazer promoções para o cliente ir para o contrato anual
     
-Familias maiores tendem a cancelar menos do que famílias menores
+- Familias maiores tendem a cancelar menos do que famílias menores
     Podemos fazer promoções pra pessoa pegar uma linha adicional de telefone para um parente, ou dependente
     
-MesesComoCliente baixos tem MUITO cancelamento. Clientes com pouco tempo como cliente tendem a cancelar muito
+- MesesComoCliente baixos tem MUITO cancelamento. Clientes com pouco tempo como cliente tendem a cancelar muito
     A primeira experiência do cliente na operadora pode ser ruim
     Talvez a captação de clientes esteja sendo feita de maneira errada trazendo clientes desqualificados
     Ideia: a gente pode criar incentivo para os clientes ficarem mais tempo como cliente
     
-Quanto mais serviços o cliente tem, menos chance dele cancelar
+- Quanto mais serviços o cliente tem, menos chance dele cancelar
     Podemos fazer promoções com mais serviços pro cliente
     
-Pode estar ocorrendo algum problema no nosso serviço de Fibra que tá fazendo os clientes cancelarem
+- Pode estar ocorrendo algum problema no nosso serviço de Fibra que tá fazendo os clientes cancelarem
     Investigar serviço de fornecimento de produtos com fibra ótica
     
-Clientes no boleto tem MUITO mais chance de cancelar
+- Clientes no boleto tem MUITO mais chance de cancelar
     Podemos fazer alguma ação para eles migrarem para as outras formas de pagamento
 
 
