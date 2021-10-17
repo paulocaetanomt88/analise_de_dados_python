@@ -18,7 +18,7 @@ display(tabela)
 
 
 <div>
-<style>
+<style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
