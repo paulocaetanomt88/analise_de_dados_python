@@ -497,7 +497,7 @@ for coluna in tabela.columns:
 - Clientes no boleto tem MUITO mais chance de cancelar
     Podemos fazer alguma ação para eles migrarem para as outras formas de pagamento
 
-
+Observação: gráficos com baixa representatividade não foram levados em consideração para as conclusões finais.
 ```python
 
 ```
